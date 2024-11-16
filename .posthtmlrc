@@ -144,9 +144,11 @@
         "headline": "Men’s basketball defeats Delaware State, Lehigh University to continue winning streak",
         "date": "November 15, 2024",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/takashi-williams/\">Takashi Williams</a> and <a href=\"https://www.columbiaspectator.com/contributors/benjamin-rubin/\">Benjamin Rubin</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/wilson-zhen/\">Wilson Zhen</a>.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Z4D2PNE6ZFDYHASDKZZGSUN3FU.jpg",
+        "cover_caption": "Giada Robinson / Photo Trainee",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1k1D3Uxxf8n_4JM7B0uat4sHwaFETQ5Okl5_h1WVR_sk/edit?tab=t.0"
       }
